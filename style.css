@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(125, 209, 246);
+    margin-top: 100px;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#home{
+    background-color: rgb(88, 110, 237);
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#row{
+    display: flex;
+}
